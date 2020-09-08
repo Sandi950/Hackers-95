@@ -27,3 +27,5 @@ echo
 echo $blue         "Pilih Tools[?]"
 echo
 echo
+CD Hacker
+python hacker.py
